@@ -362,6 +362,7 @@ h5{color: rgb(134, 183, 43);
 
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top: 20px;
+    margin-bottom: 5px;
 }
 
 h4 {
@@ -398,7 +399,7 @@ font-size: 14px;
    text-align: center;
    color:white;
    margin-right: 10px;
-   margin-bottom: 10px;
+   margin-bottom: 5px;
 font-size: 14px;
 font-weight: 600;
 }
@@ -435,4 +436,8 @@ font-weight: 600;
 
 .content .nidot{
     list-style-type: none;
+}
+
+.mb{
+    margin-bottom: 15px;
 }
