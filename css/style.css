@@ -425,3 +425,14 @@ font-weight: 600;
 .topm ul{
     margin-top: 20px;
 }
+.block .margin-top{
+    margin-top: 5px;
+}
+
+.text-black{
+    color: #000;
+}
+
+.content .nidot{
+    list-style-type: none;
+}
