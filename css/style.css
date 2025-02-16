@@ -406,7 +406,7 @@ font-weight: 600;
 
 .dot li{
    list-style-type: disc;
-  color:rgb(134, 183, 43);;
+  color:rgb(134, 183, 43);
 }
 .dot {
     margin-top: -20px;
@@ -447,4 +447,22 @@ font-weight: 600;
 }
 .margin-top-n{
     margin-top: 30px;
+}
+
+.big li{
+    font-size: 18px;
+}
+
+.big-p{
+font-size: 18px;
+}
+
+h6{
+color: rgb(116, 157, 40);
+ 
+    font-size: 20px;
+}
+
+.ten{
+    margin-top: 10px;
 }
